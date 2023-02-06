@@ -1,4 +1,4 @@
-# responsive-html-email
+# A responsive HTML email
 This is a simple responsive HTML email to reach out for partnership.
 
 <div align="center">
